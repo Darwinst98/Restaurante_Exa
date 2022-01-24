@@ -1,0 +1,15 @@
+[
+    {
+        "img": "imagenes/pizza.jpg",
+        "nombre": "Pizza"
+    },
+    {
+        "img": "imagenes/burger.jpg",
+        "nombre": "Hamburguesa"
+    },
+    
+    {
+        "img": "imagenes/momo.jpg",
+        "nombre": "Momo"
+    }
+]

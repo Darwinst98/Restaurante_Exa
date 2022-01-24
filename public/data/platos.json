@@ -1,0 +1,43 @@
+[
+    {
+        "img": "imagenes/menu-pizza.jpg",
+        "nombre": "Pizza",
+        "precio": "$ 1.50",
+        "descripcion": "Pizza grande"
+    },
+    {
+        "img": "imagenes/menu-momo.jpg",
+        "nombre": "Momo",
+        "precio": "$ 1.00",
+        "descripcion": "Plato pequeño"
+    },
+    
+    {
+        "img": "imagenes/menu-burger.jpg",
+        "nombre": "Hamburguesa",
+        "precio": "$ 2.50",
+        "descripcion": "Hamburguesa de carne"
+    }
+    ,
+    
+    {
+        "img": "imagenes/alitas.jpg",
+        "nombre": "Alitas",
+        "precio": "$ 3.50",
+        "descripcion": "Alitas bañadas en salsa barbiquiur"
+    },
+    
+    {
+        "img": "imagenes/chugchucara.jpg",
+        "nombre": "Chugchucaras",
+        "precio": "$ 4.50",
+        "descripcion": "Pato grande con fritada"
+    },
+    
+    {
+        "img": "imagenes/papas.jpg",
+        "nombre": "Papas",
+        "precio": "$ 1.50",
+        "descripcion": "Papas fritas con salsa"
+    }
+]
