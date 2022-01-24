@@ -210,6 +210,7 @@
     "neo-async": "^2.6.2",
     "netrc-parser": "^3.1.6",
     "nice-try": "^1.0.5",
+    "node": "^17.4.0",
     "node-fetch": "^2.6.7",
     "node-forge": "^0.7.5",
     "node-notifier": "^5.4.5",
